@@ -1,0 +1,5 @@
+model,mean_qlike,pvalue,in_mcs
+log HAR + GVZ + macro,0.02794734767154232,1.0,True
+log HAR + all-exog (OLS),0.02799738253177302,0.6541,True
+log HAR + GVZ,0.028842172430830423,0.0934,True
+log HAR + all-exog (partial EN),0.028957933024043446,0.0934,True

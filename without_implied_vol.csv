@@ -1,0 +1,5 @@
+model,mean_qlike,pvalue,in_mcs
+log HAR + GVZ,0.028842172430830423,1.0,True
+log HAR + Macro,0.03137302187188427,0.0081,False
+log HAR + Macro + SPX RV,0.03121524289697116,0.0081,False
+log HAR + Macro + Crude RV,0.031335254633375824,0.0081,False
